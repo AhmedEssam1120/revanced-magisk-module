@@ -7,12 +7,9 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-included-patches = "custom-branding"
 excluded-patches = "swipe-controls vanced-microg-support"
-
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
-
-
+excluded-patches = "vanced-microg-support"
 
